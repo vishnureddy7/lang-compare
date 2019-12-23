@@ -1,3 +1,4 @@
 *.out
-*.java
+*.class
 *.beam
+*.dump
